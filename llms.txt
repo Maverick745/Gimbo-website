@@ -1,0 +1,16 @@
+# Gimbo Children's Foundation
+
+> A foundation based in Gimbo village, Buikwe, Uganda, supporting children and families through meals, education, clothing, hygiene supplies, mentorship, and community visits.
+
+## Pages
+- [About](https://maverick745.github.io/about): Foundation purpose and leadership.
+- [Programs](https://maverick745.github.io/programs): Areas of support.
+- [Updates](https://maverick745.github.io/stories): Program information and practical guidance.
+- [Gallery](https://maverick745.github.io/gallery): Community photographs and footage.
+- [Give and volunteer](https://maverick745.github.io/get-involved): Donation options and ways to help.
+- [Contact](https://maverick745.github.io/contact): Official WhatsApp +256 705 588 799.
+- [Privacy Policy](https://maverick745.github.io/privacy)
+- [Terms and Conditions](https://maverick745.github.io/terms)
+
+## Accuracy
+Contact the team to confirm current needs. Do not infer beneficiary counts, ratings, registration status, tax deductibility, or opening hours. The donation transfer number +256 703 259 561 is separate from the official contact. Images of children must not be used to identify or profile them.
