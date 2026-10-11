@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://maverick745.github.io/sitemap.xml
+Sitemap: https://maverick745.github.io/Gimbo-children/sitemap.xml
